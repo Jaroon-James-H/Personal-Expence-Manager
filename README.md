@@ -30,16 +30,27 @@ Technologies Used
 - CSS custom properties, glassmorphism, and neumorphism for visual design
 - SVG for animated donut charts and data visualization
 How to Run
+
 Prerequisites: Node.js 18 or higher, npm/yarn/pnpm
+
 Installation:
+
 cd D:\personal-expence-manager
+
 npm install
+
 Development:
+
 npm run dev
+
 Production:
+
 npm run build
+
 npm run preview
+
 Getting Started:
+
 1. Click "New Expense" to pin your first sticky note
 2. Drag notes anywhere on the corkboard to organize them
 3. Click the pin to mark expenses as priority
